@@ -141,6 +141,8 @@ mvn clean verify
 
 Incluye compilación y ejecución de pruebas JUnit. Si tienes análisis estático, ejecútalo en `verify` o `site` según tu `pom.xml`.
 
+### Implementación hecha por
+- Adrian Ducuara
 ---
 
 ## Créditos
