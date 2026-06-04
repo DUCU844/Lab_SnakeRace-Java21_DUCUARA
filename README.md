@@ -383,6 +383,8 @@ Con 20 serpientes:
 mvn clean verify
 mvn -q -DskipTests exec:java -Dsnakes=20
 ```
+### Implementación hecha por
+- Adrian Ducuara
 
 ---
 
